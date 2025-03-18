@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+    height: 113px;
+    background-color: aquamarine;
+}
+
+.menu {
+    list-style-type: none;
+    float: right;
+}
+
+.menu li {
+    background-color: bisque;
+    display: inline-table;
+    padding: 10px;
+}
